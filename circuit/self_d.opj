@@ -1,0 +1,154 @@
+(ExpressProject "self_d"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\self_d.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DWM-1000
+      (FullPartName "DWM-1000.Normal")
+      (LibraryName "E:\SELF_D\CIRCUIT\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (6A10
+      (FullPartName "6A10.Normal")
+      (LibraryName "E:\SELF_D\CIRCUIT\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MPU_9250
+      (FullPartName "MPU_9250.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (GPS_AKBU6
+      (FullPartName "GPS_AKBU6.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (XM430-W210-T
+      (FullPartName "XM430-W210-T.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST-2"
+      (FullPartName "SW PUSHBUTTON-SPST-2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BOX_HEADER_6P
+      (FullPartName "BOX_HEADER_6P.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (ATmega2560
+      (FullPartName "ATmega2560.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (USB_B
+      (FullPartName "USB_B.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Atmega8u2
+      (FullPartName "Atmega8u2.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LP2985-33DBV
+      (FullPartName "LP2985-33DBV.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (IRLML6401
+      (FullPartName "IRLML6401.Normal")
+      (LibraryName "C:\USERS\J3JJJ\DESKTOP\PJ\ORCAD\EXAMPLE2\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\self_d.dsn")
+      (Path "Design Resources" ".\self_d.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" ".\self_d.dsn" "SCHEMATIC1" "POWER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 465"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1726 52 556")
+        (Scroll "-353 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\SELF_D_SUMMIT\CIRCUIT\SELF_D.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Atmega2560"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1752 78 582")
+        (Scroll "-228 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\SELF_D_SUMMIT\CIRCUIT\SELF_D.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1778 104 608")
+        (Scroll "-228 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\SELF_D_SUMMIT\CIRCUIT\SELF_D.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "USB2Serial")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.5\tools\capture\library"))
